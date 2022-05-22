@@ -1,0 +1,5 @@
+numpy
+cvzone
+opencv-python
+mediapipe
+screeninfo==0.8
